@@ -10,8 +10,4 @@ https://github.com/garethcmurphy/ess_file_formats/wiki
 
 
 
-![DMSC](assets/screamingudder.png)
-
-![DMSC](assets/SciCat.png)
-
-![DMSC](assets/esslogo.png)
+![DMSC](assets/screamingudder.png) ![DMSC](assets/SciCat.png) ![DMSC](assets/esslogo.png)
