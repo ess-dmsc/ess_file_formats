@@ -8,7 +8,7 @@ In this repository we compile information about custom file formats used at ESS.
 
 Please see our wiki at the link below:
 
-https://github.com/garethcmurphy/ess_file_formats/wiki
+https://github.com/ess-dmsc/ess_file_formats/wiki
 
 
 
