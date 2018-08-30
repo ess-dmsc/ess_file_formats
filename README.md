@@ -12,4 +12,6 @@ https://github.com/ess-dmsc/ess_file_formats/wiki
 
 
 
-![DMSC](assets/screamingudder.png) ![DMSC](assets/SciCat.png) ![DMSC](assets/esslogo.png)
+![DMSC](assets/screamingudder.png) ![DMSC](assets/SciCat.png)
+![DMSC](assets/esslogo.png)
+![DMSC](assets/ecdc.png)
